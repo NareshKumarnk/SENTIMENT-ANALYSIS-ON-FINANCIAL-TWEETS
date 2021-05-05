@@ -9,3 +9,5 @@ clean_tweets.csv - preprocessed text from dataset</br>
 
 preprocess-tweets.ipynb - contains pyspark code for cleaning the dataset and calculating sentiment from the text</br>
 sentiment_analysis.ipynb - contains sparkML code for training the logistic model  
+
+![process](https://user-images.githubusercontent.com/66820548/117193734-d9aa9400-ae00-11eb-95b6-e3293dc58e32.jpg)
